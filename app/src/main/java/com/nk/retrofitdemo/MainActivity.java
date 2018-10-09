@@ -73,6 +73,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 getFiles();
 
+               int a = 2+3;
+               Toast.makeText(MainActivity.this,String.valueOf(a),Toast.LENGTH_SHORT).show();
                 /*  hello */
             }
         });

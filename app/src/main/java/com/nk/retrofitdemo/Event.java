@@ -42,6 +42,8 @@ public class Event {
         this.like_user = like_user;
         this.is_user_register = is_user_register;
         this.is_user_like = is_user_like;
+
+        //hello
     }
 
 
